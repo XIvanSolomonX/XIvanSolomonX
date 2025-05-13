@@ -15,4 +15,7 @@ I am 2nd year cybersecurity student <br>Proficient in html and css<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=XIvanSolomonX&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/XIvanSolomonX/XIvanSolomonX/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/XIvanSolomonX/XIvanSolomonX/blob/output/github-snake.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
